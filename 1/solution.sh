@@ -4,4 +4,4 @@ mkdir Kuzin && cd Kuzin
 date > Ivan.txt
 date --date "next Mon" > filedate.txt
 cat Ivan.txt filedate.txt > result.txt
-cat result.txt
+cat result.txt 
