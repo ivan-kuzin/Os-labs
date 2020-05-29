@@ -1,3 +1,3 @@
 all:
-	gcc fifo_and_pipe.c -o fifo_and_pipe
-	./fifo_and_pipe 10
+	gcc semaphore.c -o semaphore
+	./semaphore 10 1 100
